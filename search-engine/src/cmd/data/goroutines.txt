@@ -1,0 +1,5 @@
+Goroutines are lightweight threads managed by the Go runtime. 
+Goroutines allow concurrent execution. 
+Thousands of goroutines can run efficiently. 
+The scheduler manages goroutines. 
+Goroutines communicate through channels.

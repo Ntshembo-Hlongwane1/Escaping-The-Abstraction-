@@ -1,0 +1,5 @@
+PostgreSQL is a relational database. 
+PostgreSQL supports transactions. 
+PostgreSQL uses indexes to improve query performance. 
+PostgreSQL commonly uses B Trees for indexing. 
+PostgreSQL supports replication and high availability.

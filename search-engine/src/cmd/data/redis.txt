@@ -1,0 +1,5 @@
+Redis is an in-memory database.
+Redis stores data primarily in memory. 
+Redis supports key value storage. Redis can be used as a cache. 
+Redis provides persistence through snapshots and append only files. 
+Redis supports replication.

@@ -1,0 +1,5 @@
+Distributed systems consist of multiple machines. 
+Distributed systems require communication. 
+Distributed systems face challenges such as consistency. 
+Consensus algorithms help maintain consistency. 
+Kafka and Redis clusters are examples of distributed systems.

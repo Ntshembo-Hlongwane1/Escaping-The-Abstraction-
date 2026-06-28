@@ -1,0 +1,5 @@
+Go is a statically typed programming language. 
+Go was designed for simplicity and performance. 
+Go includes support for concurrency. 
+Go programs compile to native binaries. 
+Go is commonly used for backend systems.

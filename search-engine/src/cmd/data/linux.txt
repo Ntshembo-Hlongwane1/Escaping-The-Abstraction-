@@ -1,0 +1,5 @@
+Linux is an operating system. 
+Linux manages processes and memory. 
+Linux provides file systems and networking. 
+Linux uses scheduling algorithms to manage processes. 
+Linux is widely used in servers.

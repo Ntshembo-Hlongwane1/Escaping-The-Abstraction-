@@ -1,0 +1,4 @@
+A Trie is a prefix tree. 
+Tries are useful for autocomplete. 
+Tries support efficient prefix matching. 
+Search engines use tries for suggestions.

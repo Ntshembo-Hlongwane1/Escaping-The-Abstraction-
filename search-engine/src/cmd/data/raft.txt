@@ -1,0 +1,5 @@
+Raft is a consensus algorithm. 
+Raft uses leader election. 
+Raft replicates logs between nodes. 
+Raft helps distributed systems remain consistent. 
+Raft is easier to understand than Paxos.

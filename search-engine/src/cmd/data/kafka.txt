@@ -1,0 +1,5 @@
+Kafka is a distributed event streaming platform. 
+Kafka stores messages inside partitions. 
+Kafka supports producers and consumers. 
+Kafka is commonly used for event driven systems. 
+Kafka can process large volumes of data.

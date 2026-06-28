@@ -1,0 +1,5 @@
+B Trees are balanced tree structures. 
+B Trees are commonly used in databases. 
+B Trees support efficient insert operations. 
+B Trees support efficient search operations. 
+PostgreSQL uses B Trees extensively.

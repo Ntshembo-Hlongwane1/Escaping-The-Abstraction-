@@ -1,0 +1,4 @@
+Caching improves performance. 
+Caches reduce database load. 
+Redis is often used as a cache. 
+Caching can reduce latency. Caching is important in scalable systems.

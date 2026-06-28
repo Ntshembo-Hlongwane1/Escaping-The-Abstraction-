@@ -1,0 +1,4 @@
+Consensus allows distributed systems to agree on state. 
+Consensus algorithms include Raft and Paxos. 
+Consensus is important for fault tolerance. 
+Consensus enables reliable replication.

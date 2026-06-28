@@ -1,0 +1,5 @@
+TCP is a transport layer protocol. 
+TCP provides reliable communication. 
+TCP guarantees packet ordering. 
+TCP performs retransmission when packets are lost. 
+Most web applications use TCP.

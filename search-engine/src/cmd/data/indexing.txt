@@ -1,0 +1,5 @@
+Indexes improve search speed. 
+Indexes reduce the amount of data scanned. 
+Databases use indexes for efficient queries. 
+Search engines rely heavily on indexes. 
+An inverted index maps terms to documents.

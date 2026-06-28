@@ -1,0 +1,4 @@
+Channels allow communication between goroutines. 
+Channels help synchronize concurrent operations. 
+Channels can be buffered or unbuffered. 
+Channels reduce the need for shared memory.

@@ -1,0 +1,5 @@
+MySQL is a relational database. 
+MySQL supports SQL queries. 
+MySQL uses indexes for query optimization. 
+MySQL can be used in web applications. 
+MySQL supports replication.

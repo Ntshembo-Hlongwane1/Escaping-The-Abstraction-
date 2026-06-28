@@ -1,0 +1,4 @@
+UDP is a transport layer protocol. 
+UDP prioritizes speed over reliability. 
+UDP does not guarantee packet ordering. 
+UDP is commonly used for streaming and gaming.
